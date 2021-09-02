@@ -1,0 +1,30 @@
+body {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    background-image: linear-gradient(to bottom, white 50%, black);
+    line-height: 1.4;
+}
+
+.centro {
+    width: 80%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.titulo {
+    font-size: 1.325rem;
+    font-weight: bold;
+    margin-bottom: 0.875rem;
+}
+
+.texto {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 0.95rem;
+}
+
+.texto p {
+    margin-bottom: 0.5rem;
+}

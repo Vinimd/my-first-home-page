@@ -1,0 +1,11 @@
+#motivacao {
+    clear: left;
+}
+
+div li {
+    margin: 0.5rem 0.5rem;
+}
+
+div li::before {
+    content: '▲';
+}

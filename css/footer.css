@@ -1,0 +1,15 @@
+footer {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background: url(../imagens/bg.jpg);
+}
+
+.roda-pe {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img-rodape {
+    width: 10%;
+}
